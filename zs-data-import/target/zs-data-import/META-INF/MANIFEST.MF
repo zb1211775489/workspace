@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: antuo
+Build-Jdk: 1.8.0_201
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.bayee
+Main-Class: ${start-class}
+
